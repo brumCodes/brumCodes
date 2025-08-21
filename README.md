@@ -1,4 +1,4 @@
-# Yay! Eu sou a Larissa Brum,
+# Olá! Eu sou a Larissa Brum,
 Eterna _desenvolvedora em desenvolvimento_, inspirada por soluções criativas, interessada por novas tecnologias e focada em aprender. Por aqui, deixo um pouco do que estou aprontando enquanto estudo para ampliar minhas habilidades, fique à vontade para conferir os projetos!
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
